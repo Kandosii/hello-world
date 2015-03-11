@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+#############
+
+This repository is (obviously) just messing about for the sake of learning. 
+Nothing to see here, move along.
